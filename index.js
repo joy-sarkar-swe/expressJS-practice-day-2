@@ -1,4 +1,3 @@
-// dependencies
 const express = require("express");
 const handler = require("./handler");
 // root app
